@@ -6,3 +6,12 @@
 🎓 **Computer Science Graduate** | ✍️**Technical Writer**
 ---
 
+---
+<div align="center">
+    <h1>Currently Writing/Exploring</h1>
+</div>
+
+🧑‍💻 **Operating System doc**
+---
+
+---
