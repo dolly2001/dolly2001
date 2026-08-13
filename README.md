@@ -1,17 +1,31 @@
 ---
-<div align="center">
-    <h1>Hi, I'm Piyush.</h1>
+<div>
+
+
+
+
+<div>
+    <h1 align="center">Hello👋, I'm Piyush.</h1>
 </div>
 
-🎓 **Computer Science Graduate** | ✍️**Technical Writer**
----
-
----
-<div align="center">
-    <h1>Currently Writing/Exploring</h1>
+<div>
+    <p text="bold">I'm a computer enthusiast, who love to write complex cs jargons into simple easy to understand language, love to stay close to hardware with the help of C.</p>
 </div>
 
-🧑‍💻 **Operating System doc**
 ---
+
+<div>
+    <h3>Currently Working</h3>
+    <p>I'm writing OS Jargon into easy to understandable language, can follow here <a href="https://github.com/dolly2001/operating-system" target="_blank">OS.</a>  </p>
+</div>
+
+
+
+
+
+
+
+    
+</div>
 
 ---
